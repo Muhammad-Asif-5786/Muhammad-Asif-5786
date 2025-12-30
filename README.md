@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hey there, I’m Asif!
 
-<!--
-**Muhammad-Asif-5786/Muhammad-Asif-5786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspiring Data Analyst | Power BI • SQL • Excel
 
-Here are some ideas to get you started:
+I turn raw data into meaningful insights and dashboards that answer real business questions.  
+Constantly learning, building projects, and sharpening my analytics skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔍 Passionate about data analytics and business intelligence  
+- 📈 Building real-world projects with Power BI, SQL, Excel  
+- 💡 Always exploring ways to extract insights and solve problems using data  
+- 📚 Currently improving DAX, Python for data analysis, and SQL fundamentals
+
+---
+
+## 🧰 Tech Stack
+
+**Analytics & Tools:**  
+Power BI • SQL • Excel • DAX • Tableau (learning)
+
+**Languages:**  
+Python • SQL
+
+---
+
+## 📂 Featured Projects
+
+- **Sales Analytics Dashboard** – Business data insights with Power BI  
+- **Customer Churn Analysis** – SQL + visualization project  
+- **E-commerce Data Exploration** – Power BI + Excel
+
+---
+
+## 🤝 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asif-blue)](linkedin.com/in/mohammed-asif-498279333)  
+[![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-purple)](https://www.instagram.com/muhammad_asif_quadri/)
+
+---
+
