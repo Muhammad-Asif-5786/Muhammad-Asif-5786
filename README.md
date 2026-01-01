@@ -19,7 +19,7 @@ Constantly learning, building projects, and sharpening my analytics skills.
 ## 🧰 Tech Stack
 
 **Analytics & Tools:**  
-Power BI • SQL • Excel • DAX • Tableau (learning)
+Power BI • SQL • Excel • DAX • Pyhthon
 
 **Languages:**  
 Python • SQL
